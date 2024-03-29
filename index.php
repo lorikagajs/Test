@@ -1,9 +1,10 @@
 <?php
 
 
-$emri = lorik ;
+$emri = "lorik" ;
 
 echo"Pershendetje kolege!!";
 
 
 ?>
+
